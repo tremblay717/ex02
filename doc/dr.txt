@@ -1,5 +1,9 @@
 ex01
 
+1.
+
+Calculate x - y / z
+
 Christophe Tremblay
 SIO-2109
 
