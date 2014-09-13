@@ -4,6 +4,10 @@ ex01
 
 Calculate x - y / z
 
+2. bien
+3. bien
+4. bien
+
 Christophe Tremblay
 SIO-2109
 
